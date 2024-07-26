@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "4f3e1117e3c7fd2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8589c0663352dc74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "438a4d62f84585cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实例/在多邻国Duolingo学习日语的考察日记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c2b385456db699b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7057bbe8c4d16912",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59c05fd85785ca19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ceb441744985f883",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "447611b22392f8af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "36538636f416be80",
+    "type": "split",
+    "children": [
+      {
+        "id": "e23511142f6b82cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6839edd621fe18f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "实例/在多邻国Duolingo学习日语的考察日记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e56a9eb51bc20466",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "实例/在多邻国Duolingo学习日语的考察日记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cf4f505bfd59af8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d4a5de543f70d8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "实例/在多邻国Duolingo学习日语的考察日记.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "438a4d62f84585cb",
+  "lastOpenFiles": [
+    "实例/学习Markdown的方法.md",
+    "实例/在多邻国Duolingo学习日语的考察日记.md",
+    "5-原理层/已知比与未知比.md",
+    "实例",
+    "目录.md",
+    "0-前言/关于本书.md",
+    "0-前言/关于其他书.md",
+    "5-原理层",
+    "新建文件夹",
+    "0-前言/新建文本文档.txt",
+    "0-前言/关于作者.md",
+    "学习科学是什么/目录.md",
+    "0-前言/0-前言.md",
+    "目录.txt",
+    "mulu.txt",
+    "框架.txt",
+    "新建文本文档.txt"
+  ]
+}
