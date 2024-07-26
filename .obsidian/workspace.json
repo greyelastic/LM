@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8589c0663352dc74",
+        "id": "227900f5554a6a1b",
         "type": "tabs",
         "children": [
           {
-            "id": "438a4d62f84585cb",
+            "id": "ca0570c8b01b2f84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实例/在多邻国Duolingo学习日语的考察日记.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实例/在多邻国Duolingo学习日语的考察日记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实例/在多邻国Duolingo学习日语的考察日记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "实例/在多邻国Duolingo学习日语的考察日记.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,14 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "438a4d62f84585cb",
+  "active": "ca0570c8b01b2f84",
   "lastOpenFiles": [
-    "实例/学习Markdown的方法.md",
+    "ReadMe.md",
+    "0-前言/关于本书.md",
     "实例/在多邻国Duolingo学习日语的考察日记.md",
+    "实例/学习Markdown的方法.md",
     "5-原理层/已知比与未知比.md",
     "实例",
     "目录.md",
-    "0-前言/关于本书.md",
     "0-前言/关于其他书.md",
     "5-原理层",
     "新建文件夹",
